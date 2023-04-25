@@ -1,6 +1,7 @@
 # hashgo-cli
 
 A program to calculate hashes of files.
+It's written in [Go](https://go.dev/).
 
 ## Supported hash algorithms
 * CRC-32
