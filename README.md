@@ -38,7 +38,7 @@ If there's no hash algorithms specified, it'll use default hash algorithms(MD5, 
 * Use SHA-256 only
 
   ```
-  hashgo-cli --sha256 ~/ubuntu-22.04.iso ~/windows-11.iso`
+  hashgo-cli --sha256 ~/ubuntu-22.04.iso ~/windows-11.iso
   ```
 
 ## Installation
