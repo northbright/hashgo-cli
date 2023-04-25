@@ -43,7 +43,9 @@ If there's no hash algorithms specified, it'll use default hash algorithms(MD5, 
 
 ## Installation
 #### Method A - Install from Source
-* Download and Install [Golang](https://go.dev/dl/)
+* Download and Install [Golang](https://go.dev/doc/install)
 * Run `go install github.com/northbright/hashgo-cli@latest`
+  * This will install the latest version of hashgo-cli to `$GOPATH/bin`.
+  * To find out where `$GOPATH` is, run `go env GOPATH`
 
 
