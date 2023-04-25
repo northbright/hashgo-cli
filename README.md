@@ -27,7 +27,7 @@ To specify which hash algorithms to use, set one or more of the following flags.
 | `--sha256` | output SHA-256 checksum |
 | `--sha512` | output SHA-512 checksum |
 
-If there's no hash algorithms specified, it'll use default hash algorithms(MD5, SHA-1, SHA-256).
+If there's no hash algorithms specified, it'll use the default hash algorithms(MD5, SHA-1, SHA-256).
 
 ## Examples:
 * Use default hash algorithms
