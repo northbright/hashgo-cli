@@ -1,6 +1,6 @@
 # hashgo-cli
 
-A program to calculate hashes of files or text strings.
+A program to calculate hashes of files.
 
 ## Supported hash algorithms
 * CRC-32
